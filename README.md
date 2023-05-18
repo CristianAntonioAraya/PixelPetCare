@@ -1,2 +1,2 @@
 # PixelPetCare
-"Revive the nostalgia of Tamagotchi with our JavaScript-powered ASCII art clone. Care for, play with, and watch your virtual pet thrive in a visually captivating ASCII environment."
+Experience the nostalgia of Tamagotchi in a whole new way with our JavaScript-powered ASCII art clone. Care for and interact with your virtual pet using the charm of ASCII characters, as you feed, play, and watch your Tamagotchi grow. Relive the magic of this iconic virtual pet in a visually appealing and interactive environment. Join us and embark on a journey of care, responsibility, and friendship with your ASCII art Tamagotchi clone.
